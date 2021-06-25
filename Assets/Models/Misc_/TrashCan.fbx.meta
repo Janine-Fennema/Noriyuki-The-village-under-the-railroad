@@ -8,32 +8,32 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: beton
-    second: {fileID: 2100000, guid: 4c1e8564a96592c4885ccc792f9de8ef, type: 2}
+    second: {fileID: 2100000, guid: 54553c5b1ff727045bad32df214509f6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: led
-    second: {fileID: 2100000, guid: b89e5124b1bfe054bbf39290cba471a8, type: 2}
+    second: {fileID: 2100000, guid: 1b32795ec8a89034f9e05645dbaaa8c1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal
-    second: {fileID: 2100000, guid: 0b10c94e786a39a469644ffb336fa86c, type: 2}
+    second: {fileID: 2100000, guid: b680fbed23061cd4185bb45d10ab1b7b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: roof
-    second: {fileID: 2100000, guid: f924efd06c42a7f439c0df39259e9257, type: 2}
+    second: {fileID: 2100000, guid: ba75f913fe30b3f4988c1b77529443d3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: trashcansign
-    second: {fileID: 2100000, guid: b2b90d3088948804e92150fa45dfbdba, type: 2}
+    second: {fileID: 2100000, guid: ee3c5f3dbe28a8f4b8f14a757a5517dc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wall
-    second: {fileID: 2100000, guid: 3d66dd1e5b4bb7549842539348eeccf5, type: 2}
+    second: {fileID: 2100000, guid: 8a83208d65eb93645aca493c9275b574, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
