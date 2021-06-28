@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Post_Processing_Trashcan
   m_EditorClassIdentifier: 
   settings:
-  - {fileID: 1446976352757773919}
---- !u!114 &1446976352757773919
+  - {fileID: 2536838942422820358}
+--- !u!114 &2536838942422820358
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -32,28 +32,28 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 2
+    value: 10
   threshold:
     overrideState: 1
-    value: 1
+    value: 10
   softKnee:
     overrideState: 1
-    value: 0
+    value: 0.5
   clamp:
     overrideState: 1
     value: 65472
   diffusion:
     overrideState: 1
-    value: 2.7
+    value: 7
   anamorphicRatio:
     overrideState: 1
     value: 0
   color:
     overrideState: 1
-    value: {r: 5.0322623, g: 0, b: 7.062479, a: 1}
+    value: {r: 1, g: 0, b: 0, a: 1}
   fastMode:
     overrideState: 1
-    value: 1
+    value: 0
   dirtTexture:
     overrideState: 1
     value: {fileID: 0}
