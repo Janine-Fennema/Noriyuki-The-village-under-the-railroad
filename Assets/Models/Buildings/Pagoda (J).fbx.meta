@@ -1,104 +1,9 @@
 fileFormatVersion: 2
-guid: d558f4dbdb706f344a921d148a36ae67
+guid: ee90fe9242f69a940967c300d5874659
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material
-    second: {fileID: 2100000, guid: 2814bb0a49aa6204486e6bb5f6f5a8cb, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2100000, guid: 136af406fac222a4c8142d6b1f37a4a7, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: beton
-    second: {fileID: 2100000, guid: c01dee8adf7a82541b139a832204a15a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: beton.001
-    second: {fileID: 2100000, guid: 352da3382ee44014f9709d1aefa31ca3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: beton.002
-    second: {fileID: 2100000, guid: 23036aacc99a94e438f8a610de71ed30, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: beton.003
-    second: {fileID: 2100000, guid: 528d26fd4776e6949bdac71d023f069e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: dak
-    second: {fileID: 2100000, guid: 8f0ddd95a1f45354a9d400f8f1ae5b04, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: donker
-    second: {fileID: 2100000, guid: fa1bf28cfff6fd546ab6846ce8bd7a00, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: donkerbeton.001
-    second: {fileID: 2100000, guid: c27e7069b9b922d4a973280987cda556, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: glass
-    second: {fileID: 2100000, guid: 3118258190f64b5469d6fc527619bbba, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: metal
-    second: {fileID: 2100000, guid: 1db183c9dfc7bcf489cd06b1ffd06094, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: metal.001
-    second: {fileID: 2100000, guid: 87215ba7775945e458de227377a78ec8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: old metal
-    second: {fileID: 2100000, guid: f981559d609a3f9498c50fa1e0451cae, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: old metal.001
-    second: {fileID: 2100000, guid: 1258d416f1dd85a47b09a5163ae353ff, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: old metal.002
-    second: {fileID: 2100000, guid: 8daa67af77e661b45924ea865ad331e4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pink led
-    second: {fileID: 2100000, guid: 4d1a8fcb5ca71bc4a81c410e543c5e90, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pink led.001
-    second: {fileID: 2100000, guid: ca688a339a08e0847876072f230c4d6d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pink leds
-    second: {fileID: 2100000, guid: 43e649eb748aef74ba96ac6f909cff30, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: wall
-    second: {fileID: 2100000, guid: 1e3dd004f08395840bed67e0b19e7c4b, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -128,7 +33,10 @@ ModelImporter:
     clipAnimations: []
     isReadable: 0
   meshes:
-    lODScreenPercentages: []
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
     globalScale: 1
     meshCompression: 0
     addColliders: 1
